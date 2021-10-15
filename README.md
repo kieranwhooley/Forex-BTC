@@ -16,4 +16,4 @@ https://www.coindesk.com/coindesk-api
 The program also uses the **flagpy** library to display the flags of supported countries:<br/>
 https://pypi.org/project/flagpy/
 
-The program is written in **Python** and is tested using **pytest**.
+The program is tested using **pytest**.
