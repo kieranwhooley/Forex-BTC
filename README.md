@@ -13,7 +13,7 @@ https://ratesapi.io/
 The Bitcoin information in the program is powered by **CoinDesk**:<br/>
 https://old.coindesk.com/price/bitcoin
 
-The country information is taken from the **countryinfo** library:
+The country information is taken from the **countryinfo** library:<br/>
 https://pypi.org/project/countryinfo/
 
 The program also uses the **flagpy** library to display the flags of supported countries:<br/>
